@@ -1,0 +1,77 @@
+{
+  "total_contributions": 92,
+  "timestamp": "2026-01-29T15:43:36.604446",
+  "pillars": {
+    "availability": {
+      "mean": 100.0,
+      "std": 0.0,
+      "median": 100.0,
+      "min": 100.0,
+      "max": 100.0
+    },
+    "accessibility": {
+      "mean": 98.8,
+      "std": 10.4,
+      "median": 100.0,
+      "min": 0.0,
+      "max": 100.0
+    },
+    "linkability": {
+      "mean": 77.1,
+      "std": 32.3,
+      "median": 100.0,
+      "min": 0.0,
+      "max": 100.0
+    },
+    "license": {
+      "mean": 96.1,
+      "std": 12.8,
+      "median": 100.0,
+      "min": 50.0,
+      "max": 100.0
+    },
+    "overall": {
+      "mean": 93.0,
+      "std": 9.4,
+      "median": 100.0,
+      "min": 75.0,
+      "max": 100.0
+    }
+  },
+  "tiers": {
+    "excellent": 76,
+    "good": 16,
+    "fair": 0,
+    "poor": 0
+  },
+  "properties": {
+    "total": 586,
+    "urls": 113,
+    "resources": 217,
+    "literals": 256,
+    "repos": 81
+  },
+  "url_accessibility": {
+    "total": 113,
+    "accessible": 105,
+    "rate": 92.9
+  },
+  "resource_linkability": {
+    "total": 217,
+    "linked": 22,
+    "rate": 10.1
+  },
+  "repo_license": {
+    "total": 81,
+    "licensed": 28,
+    "rate": 34.6,
+    "types": {
+      "GNU General Public License v2.0": 2,
+      "BSD 3-Clause \"New\" or \"Revised\" License": 4,
+      "MIT License": 11,
+      "GNU General Public License v3.0": 1,
+      "Apache License 2.0": 8,
+      "BSD 2-Clause \"Simplified\" License": 2
+    }
+  }
+}
